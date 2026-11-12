@@ -1,0 +1,20 @@
+# Python virtual environment (recreate with: pip install -r requirements.txt)
+robot_kinematics_env/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor settings (machine-specific paths)
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db

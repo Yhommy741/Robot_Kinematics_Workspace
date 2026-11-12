@@ -1,6 +1,17 @@
+# Robotics
 roboticstoolbox-python
-spatialgeometry
 spatialmath-python
+spatialgeometry
+xacrodoc                # URDF loading in roboticstoolbox 1.5+
+
+# 3D viewer
 swift-sim
-websockets==12.0
+websockets==12.0        # newer versions make Swift hang
+
+# Math / plots
+numpy
+sympy                   # symbolic FK / IK / Jacobian notebooks
+matplotlib              # manipulability ellipsoid plot
+
+# Jupyter
 ipykernel
