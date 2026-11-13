@@ -3,6 +3,7 @@ robot_kinematics_env/
 venv/
 .venv/
 env/
+kinematics_env/
 
 # Python cache
 __pycache__/
